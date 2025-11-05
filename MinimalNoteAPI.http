@@ -1,0 +1,6 @@
+@MinimalNoteAPI_HostAddress = http://localhost:5116
+
+GET {{MinimalNoteAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
